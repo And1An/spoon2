@@ -178,6 +178,7 @@ body {
 
 .header-main__wrap {
     background-image: url(./img/main2.png);
+    background-color: #666666;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-bottom: 120px;
